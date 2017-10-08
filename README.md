@@ -3,7 +3,7 @@ a Payload that run on a Digispark 16.5mhz, and using digispark as a **`Rubber Du
 
 
 # Build:
-This Ardunio code can steal all passwords from Windows 7/8/8.1/10 OS with a Visual Basic Script and Procdump that are in a flash memory.
+This Ardunio code can steal so many information about your target machine from Windows 7/8/8.1/10 OS with a Visual Basic Script and Procdump that are in a flash memory.
 
 
 # Digispark configuration :

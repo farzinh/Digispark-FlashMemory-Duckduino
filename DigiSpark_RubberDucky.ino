@@ -9,8 +9,6 @@
  *  Author : N3o (Farzin Haque)
  *   GIT:
  *       https://github.com/farzinh/Digispark-FlashMemory-Duckduino
- *  Twitter:
- *       https://twitter.com/panisher2011
 
 */
 #include "DigiKeyboard.h"
